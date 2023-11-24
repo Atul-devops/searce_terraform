@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mercury-development-311316",
+  "private_key_id": "4d258182aab4470dfaa9362b28c147591a2cca50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0kIN+zR4md63g\naQAlr2Yr38Y60w08dJqsUXCk2RhUEwG3rf3290PeYm4UvZpQgXOksozTs87WF/j9\nNnnuVYWqzuc2IVsFSIuDpl0b4pMQ4Xy+COhljh6V7CziH5VaTZHdY4xuqJqpl1OQ\nYc5obS5bQt37PwB0GxJ2X0Fi9z71g4xgq7ZTakbWBswxul+zts4ZYDRPJd0Yv2ws\nk8rJ+CpJhVrLsgnEK0erGUcqyA/x06Axn8v4Keuhw+Dodv6oLlbyRbUgZcLeKFvd\njUDsXMhAQeoR5Wb1dEVyJcYdrL+80I7b0RGQ1bsCW9BPAJErYrgrOPcbA0rVlIAx\nFY7qRRFzAgMBAAECggEAQEgogCZ/Atvdi4RmGIR6n8kBNeT4E9tBS3KM4ysklZ3U\noTMwtFDwGQY6wWiEvP9xD6O/LgkX7DFJo7/WpcpNlXMmbidu05ExlfNOt4QwrjRQ\naAkczzbK3b3gdroevjDaapIrpyOgOBsXFVI0nQmtlLDX/T+/JhaTOpAL47M490c9\nQTWRZCE1cFLJBno2xsSR5Uoo3P5uLo0lLfNGNFttucfN1QJul7qfEFXZ0nw/Pk7N\n22SMBbMinV10yO/JsWpQGazMXZLxF+U3gH7Yoc8QEfiIbYrGwUZSyokb3bmxB2ct\nO67LxKCwCtbfsMSB6ONSiHgyPcFEslFNrMdwhGhE1QKBgQDxXPF/PjsOfjBfYXWg\npPjpoudfNb5n5ZybnqHNr4vt1Z5Z4konhWptroak92AESbjoVbTDU+hk3CLOX7ZH\noymuloWNGQQ44ZNvre+KkfVM44sXImTDOC96+XtiMdn1V/7665ajzmHkw+eL4vUY\n4Yld+zbDgSu5HZiBgr+84OeA5QKBgQC/g7L9IstjUNRPHqFIqUnFWM7Mc44DNA3Y\nFf2/0Ogwb4//X0c5P4ZHOMMhH+Q2AOyuoRMjbumV6IPKi9GZj/A0g1nI0XROJqsE\nNR7OLunVgphIoQbEYZ8uDrJAx1yh+Iq2O9wjj2/zadsh1fmANMTKhMXDjW1Dw94K\nYzTqstAbdwKBgG0cokPuow4DN+T2jxGHYstkDIq7Jg+b+ndTeDwe3vguuP5TUUia\nhKl+23maJzrpBQFrNWOT/BwUdFutYx7xgPdfLpLBu2nneBplnEOdhjIzL37O2pRy\nQuyp+gBDHxBNroRKmngE5bZgZb2UZU7RLqNg3Ln3HAf8fCQYMou1dJKNAoGBAI+u\nLsrbH9wS+DWjtTzeRQpZ5kxdJV4h34EOfqE6CfjMuivNP5Ijpoooe7yOQJiDeQ5K\nqiEbRQPCvZ1n6IhdBMlhAis3eRpoyEUP1Vy6tZQJtlZG+Ny8oL/dJr6S01xxKyAt\nKKtFIahs8oogDl+xNzL5CaX8pM0CVcNVSo4KOTdhAoGBAJQjgl7yrWKB0+gkNiXo\n0o5ogoVRZOUWnPWI2o3uwU8v5rUKUy7QKfP1g6CqfRNMw82AJTOXFkI029QOuoEi\nw1WAcCtxUWM56iGH6ENJwY1M8IBCpW3XoWT/05tU/cxPDo4G6ccUcflvikBuEutL\n7LDgeAEyNa+/1rD12zfDXi+k\n-----END PRIVATE KEY-----\n",
+  "client_email": "new-sa-instance-admin@mercury-development-311316.iam.gserviceaccount.com",
+  "client_id": "100469028774834463136",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/new-sa-instance-admin%40mercury-development-311316.iam.gserviceaccount.com"
+}
